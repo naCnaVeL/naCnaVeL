@@ -8,10 +8,10 @@
   <a href="https://www.facebook.com/canleit5509/"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook"></a>
 </p>
 <br>
-<table border="0">
+<table border="none">
  <tr>
     <td width="50%" align="center">
-      <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=canleit5509" alt="Github Streak Stats">
+      <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=naCnaVeL" alt="Github Streak Stats">
       <img width="350" alt="naCnaVeL's github stats" src="https://github-readme-stats.vercel.app/api?username=naCnaVeL&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
    </td>
     <td align="center"> 
